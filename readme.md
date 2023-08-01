@@ -1,7 +1,7 @@
 
 # Neural Style Transfer      <img src="cop.jpeg"  height="50" width="50">
 
-Built as a part of (CSOC Week-4 Project).
+Built as a part of (CSOC Week-4 Project) - https://github.com/hecker1002/CSOC--Neural-Style-Transfer/tree/main
 
 In this project , I have tried to explain through proper in-code explanations and semantic code one of the most exciting features of Computer Vision today -    
 <b>Neural Style Transfer</b> .
